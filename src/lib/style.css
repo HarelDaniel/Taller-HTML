@@ -1,0 +1,39 @@
+/* Estilo oscuro */
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.container-fluid {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+h1, h2, h3 {
+    color: #ffffff;
+}
+
+a {
+    color: #ffffff;
+}
+
+a:hover {
+    color: #cccccc;
+}
+
+img {
+    filter: brightness(0.8);
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
+/* Fin Estilo oscuro */
